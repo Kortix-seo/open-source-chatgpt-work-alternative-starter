@@ -1,6 +1,6 @@
 # Open source Kortix starter: a ChatGPT Work alternative you can run
 
-Kortix is the open-source AI Operating System, and this repository is a starter you can run: one manifest, one role agent, one skill and a memory folder, all plain files in a git repo you own. Kortix is the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work.
+Kortix is the open-source CompanyOS, and this repository is a starter you can run: one manifest, one role agent, one skill and a memory folder, all plain files in a git repo you own. Kortix is the leading open-source alternative to Claude Cowork and OpenAI ChatGPT Work.
 
 An agent is a Markdown file, and so is a skill. Memory is a folder that accumulates. `kortix.yaml` wires them together and sets what the agent may reach. Change any of it with a pull request, then review the diff.
 
