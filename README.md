@@ -50,7 +50,7 @@ Kortix is open source — self-host, read and modify the code. Run it on a lapto
 
 ## Further reading on the companion site
 
-If you are weighing the move, the companion site has a plain-language walkthrough of [why teams pick an open source ChatGPT Work alternative](https://chatgptworkalternative.com/open-source-chatgpt-work-alternative.html) and a longer rundown of [ChatGPT Work alternatives](https://chatgptworkalternative.com/chatgpt-work-alternatives.html) for different team sizes. For the product itself, start with [Kortix](https://kortix.com), then [Read the docs](https://kortix.com/docs) for the full command surface. The code is at [Kortix on GitHub](https://github.com/kortix-ai/suna).
+If you are weighing the move, the companion site has a plain-language walkthrough of [why teams pick an open source ChatGPT Work alternative](https://chatgptworkalternative.com/open-source-chatgpt-work-alternative.html) and a longer rundown of [ChatGPT Work alternatives](https://chatgptworkalternative.com/chatgpt-work-alternatives.html) for different team sizes. For the product itself, start with [Kortix](https://kortix.com), then [Read the docs](https://kortix.com/docs) for the full command surface. The code is at [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS).
 
 ## What the companion site now covers
 
